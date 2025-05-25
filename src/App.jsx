@@ -1,4 +1,4 @@
-import { useState } from 'react';
+/*import { useState } from 'react';
 
 
 
@@ -14,11 +14,11 @@ const handleClick =()=>{
   return (
     <>
 <h1 className="text-red-600"> react</h1>
-//<h2>{count}</h2>
+<h1>{count}</h1> 
 <button className='bg-blue-200'  onClick={handleClick}>Click</button>
 {show &&<h2>Hello react</h2>}
     </>
   )
 }
 
-export default App
+export default App*/
